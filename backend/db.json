@@ -1,0 +1,16 @@
+{
+    "clientes": [
+        {
+            "id": 1,
+            "nome": "Aluno 01",
+            "email": "aluno01@gmail.com",
+            "descricao": "Descrição do Aluno 01"
+        },
+        {
+            "id": 2,
+            "nome": "Aluno 02",
+            "email": "aluno02@gmail.com",
+            "descricao": "Descrição do Aluno 02"
+        }
+]   
+}
